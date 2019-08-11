@@ -4,3 +4,19 @@ body{
     height: 100vh;
 }
 
+
+.drawer-list{
+    background: rgb(209, 205, 205);
+    height: 100%;
+    max-width: 350px;
+    min-width: 200px;
+    padding: 5px 10px;
+}
+
+div.viewed {
+    background: #bdc3c7;
+}
+
+div.unViewed{
+    background: #2c3e50;
+}

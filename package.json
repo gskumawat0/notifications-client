@@ -1,5 +1,5 @@
 {
-  "name": "client",
+  "name": "socket.io-notifications",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -31,5 +31,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Gouri Shankar Kumawat",
+  "license": "ISC"
 }
